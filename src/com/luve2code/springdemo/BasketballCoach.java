@@ -14,4 +14,11 @@ public class BasketballCoach implements Coach {
 		return "Get enough sleep you dumb dumb!";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+
 }
